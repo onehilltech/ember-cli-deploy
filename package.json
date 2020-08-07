@@ -1,6 +1,6 @@
 {
   "name": "@onehilltech/ember-cli-deploy",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A standardized approach for deploying Ember applications.",
   "keywords": [
     "ember-addon",
