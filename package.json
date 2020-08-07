@@ -1,12 +1,14 @@
 {
   "name": "@onehilltech/ember-cli-deploy",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A standardized approach for deploying Ember applications.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-deploy",
+    "onehilltech"
   ],
   "repository": "",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "author": "",
   "directories": {
     "doc": "doc",
@@ -22,6 +24,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^7.17.2",
+    "ember-cli-blueprint-helpers": "^0.4.7",
     "ember-cli-htmlbars": "^4.2.2"
   },
   "devDependencies": {
